@@ -1,7 +1,5 @@
 package com.priceGenerator;
 
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
-
 public class Pizza {
 
     public boolean veg;
